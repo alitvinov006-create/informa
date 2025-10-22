@@ -36,6 +36,5 @@ int main()
 
         window.display();
     }
-    system("pause");
     return 0;
 }
